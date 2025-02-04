@@ -1,5 +1,5 @@
 {
-  "facebookAccount": {
+  "facebookAccount": 
     "email": "",
     "password": "",
     "2FASecret": "",
@@ -29,7 +29,7 @@
   "AGE": "24",
   "GENDER": "MALE",
   "nickNameBot": "chris stars",
-  "FACEBOOK": "https://www.facebook.com/profile.php?id=100016828397863",
+  "FACEBOOK": "100016828397863",
   "prefix": ".",
   "database": {
     "type": "sqlite",
